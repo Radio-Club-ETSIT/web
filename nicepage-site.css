@@ -1,3 +1,10 @@
+@font-face { font-family: lobster; src: url('./assets/Lobster.otf'); } 
+
+
+::-webkit-scrollbar {
+  display: none;
+}
+
 /*begin-variables font-family*/
 .u-body {
   font-family: 'Open Sans',sans-serif;

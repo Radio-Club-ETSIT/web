@@ -1,3 +1,7 @@
+::-webkit-scrollbar {
+  display: none;
+}
+
  .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.85), rgba(0,0,0,0.85)), url('0f9cd43b/5993878/images/Airbus_Beluga_Airbus.jpg');
   background-position: 50% 63.57%;
