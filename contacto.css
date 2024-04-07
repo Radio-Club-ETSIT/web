@@ -237,3 +237,29 @@
     width: 320px;
   }
 }
+.login-container {
+  width: 400px;
+  margin: 20px auto;
+  border: 3px solid #00000015;
+  padding: 30px;
+  border-radius: 5px;
+  background-color: #ccc;
+}
+
+.login-input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.login-button {
+  width: 100%;
+  padding: 10px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
